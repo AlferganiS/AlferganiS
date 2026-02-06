@@ -6,7 +6,6 @@ I'm Abdullah Alfurjani, a Libyan Network Engineer/Future Cybersecurity Analyst b
 # 🌱 I’m currently learning
 - Web Security
 - Penetration testing
-- Web Development
 
 # 💬 Ask me about
 - Web Security
